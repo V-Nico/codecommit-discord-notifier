@@ -2,7 +2,7 @@ const http = require('https')
 const url = require('url')
 const path = require('path')
 
-const config = require('../config')
+const config = require('./config')
 
 exports.handler = function(event, context) {
   const options = {
