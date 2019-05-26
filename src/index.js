@@ -24,7 +24,7 @@ const event = {
       "eventTriggerConfigId": "e1586a4645e-r4684r-5644er",
       "eventTriggerName": "my-trigger",
       "eventVersion": "1.0",
-      "userIdentityARN": "arn:aws:iam::123456789012:Author"
+      "userIdentityARN": "arn:aws:iam::123456789012:user/Author"
     }
   ]
 }
